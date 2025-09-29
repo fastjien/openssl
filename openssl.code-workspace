@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "oqs-provider"
+		},
+		{
+			"path": "gost-engine"
+		},
+		{
+			"path": "cloudflare-quiche/quiche/deps/boringssl/src/crypto"
+		},
+		{
+			"path": "cloudflare-quiche/quiche/deps/boringssl/src"
+		}
+	],
+	"settings": {}
+}
